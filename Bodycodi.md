@@ -2,10 +2,14 @@
 
 ### 온보딩 페이지
 
-
-
-<img width="320px" src="https://user-images.githubusercontent.com/67527360/225225643-b5f80be8-cc50-44c4-b372-05a1f11635f6.gif"/>
-
 ![](attachments/ezgif-4-6be1a48961.gif)
 
 
+### 예약 프로세스
+![](attachments/ezgif-5-d986e45695.gif)
+
+### 구매 프로세스
+![](attachments/ezgif-5-f5f6a5e28b.gif)
+
+### 커뮤니티
+![](attachments/ezgif-5-29d8b97995.gif)
