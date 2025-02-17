@@ -2,4 +2,4 @@
 
 ### 일시적 2주택 보고서
 
-![[attachments/calltax1.gif]]
+![](attachments/calltax1.gif)
